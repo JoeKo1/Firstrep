@@ -12,3 +12,4 @@ who's what pokemon?
 diffrent line
 new branch line
 onemore test)branch(update)
+newlineforgui
