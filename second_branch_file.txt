@@ -1,1 +1,2 @@
 sec_branch  with confl
+edit file(sinchronize)
